@@ -42,26 +42,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918270026275','916380260672'] //you can add multiple number
-global.ownername = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
+global.owner = ['6282110146985','6282110146985'] //you can add multiple number
+global.ownername = "JexxyStore"
 global.ytname = "YT: Turbo Mods" //ur yt chanel name
 global.socialm = "GitHub: TURBOHYPER" //ur github or insta name
-global.location = "India, TamilNadu, Coimbatore" //ur location
+global.location = "KEPO BET LU" //ur location
 
 //bot bombdy
-global.botname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫" //ur bot name
+global.botname = "Jexxy ₪ Botz" //ur bot name
 global.websitex = "https://github.com/TURBOHYPER" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
-global.packname = "𝗧𝚯𝗫𝗜𝗖 ₪ 𝚫𝗟𝗘𝗫𝚫"
+global.packname = "Jexxy ₪ Store"
 global.author = "𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯"
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['916380260672'] //ur owner number
-global.ownernummenu = ['916380260672'] //ur owner number in menu and all
-global.watermark = " 𝗧𝚯𝗫𝗜𝗖 𝗧𝗨𝗥𝗕𝚯" //ur watermark
+global.ownertag = ['6282110146985'] //ur owner number
+global.ownernummenu = ['6282110146985'] //ur owner number in menu and all
+global.watermark = "JexxyBotz" //ur watermark
 global.botscript = "https://github.com/TURBOHYPER/Toxic-Alexa_V3"
-global.linkz1 = "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
-global.linkz2 = "https://chat.whatsapp.com/GsgzyBU8Vld0YCNnFrBAQt"
+global.linkz1 = "https://chat.whatsapp.com/GVCLXF7CtsC5QzKKtmCc2J"
+global.linkz2 = "https://chat.whatsapp.com/LOP3bspO97S5CywiPTvCKG"
 
 //Bot theme media
 global.thum = fs.readFileSync("./TurboMedia/theme/alexa.jpg") //ur thumb pic
@@ -96,17 +96,17 @@ global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','😽']
 global.mess = {
     success: 'Done✓',
-    admin: 'Tʜɪs Fᴇᴀᴛᴜʀᴇ Is Oɴʟʏ Fᴏʀ Aᴅᴍɪɴ',
-    botAdmin: 'Bᴏᴛ Mᴜsᴛ Bᴇ Aᴅᴍɪɴ Fɪʀsᴛ',
-    owner: 'Tʜɪs Fᴇᴀᴛᴜʀᴇ Is Oɴʟʏ Fᴏʀ Oᴡɴᴇʀ',
-    rent: 'Tʜɪs Fᴇᴀᴛᴜʀᴇ Is Oɴʟʏ Fᴏʀ Tᴜʀʙᴏ Mᴏᴅs Aɴᴅ Oᴡɴᴇʀ',
-    group: 'Fᴇᴀᴛᴜʀᴇ Usᴇᴅ Oɴʟʏ Fᴏʀ Gʀᴏᴜᴘs',
-    private: 'Fᴇᴀᴛᴜʀᴇs Usᴇᴅ Oɴʟʏ Fᴏʀ Pʀɪᴠᴀᴛᴇ Cʜᴀᴛ',
-    bot: 'Tʜɪs Fᴇᴀᴛᴜʀᴇ Iɴ Oɴʟʏ Fᴏʀ Tʜᴇ Bᴏᴛ Nᴜᴍʙᴇʀ',
-    wait: 'Pʟᴇᴀsᴇ Wᴀɪᴛ A Mɪɴᴜᴛᴇ...',
-    linkm: 'Pʟᴇᴀsᴇ Eɴᴛᴇʀ Tʜᴇ Lɪɴᴋ',
+    admin: 'BUAT ADMIN DOANG DECK!',
+    botAdmin: 'ADMININ DLU GMN MAU KICK ORANG!',
+    owner: 'BUAT OWNER DOANG DECK!',
+    rent: 'FITUR KHUSUS MODS AMA OWNER!',
+    group: 'INI FITUR GRUP!',
+    private: 'FITUR DI PRIVATE CHAT!',
+    bot: 'FITUR KHUSUS NO BOT',
+    wait: 'SABAR DECK!...',
+    linkm: 'KIRIM LINKNYA',
     error: 'Error',
-    ban: 'You Have Been Banned By The Owner, If You Want To Be UnBanned, Contact Owner.',
+    ban: 'MAMPUS GUA BAN MAKANYA JAN JGN PALA BATU',
     nsfw: 'The Nsfw Feature Has Not Been Activated, Please Contact The Admin To Activate',
     banChat: 'The Bot Was Banned In This Group, Please Contact The Owner To UnBan'
 }
